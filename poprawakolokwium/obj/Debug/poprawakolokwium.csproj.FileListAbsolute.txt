@@ -1,0 +1,9 @@
+C:\Users\local\Desktop\Kolokwium\poprawakolokwium\poprawakolokwium\bin\Debug\poprawakolokwium.exe.config
+C:\Users\local\Desktop\Kolokwium\poprawakolokwium\poprawakolokwium\bin\Debug\poprawakolokwium.exe
+C:\Users\local\Desktop\Kolokwium\poprawakolokwium\poprawakolokwium\bin\Debug\poprawakolokwium.pdb
+C:\Users\local\Desktop\Kolokwium\poprawakolokwium\poprawakolokwium\obj\Debug\poprawakolokwium.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Kolokwium\poprawakolokwium\poprawakolokwium\obj\Debug\poprawakolokwium.exe
+C:\Users\local\Desktop\Kolokwium\poprawakolokwium\poprawakolokwium\obj\Debug\poprawakolokwium.pdb
+C:\Users\local\Desktop\136239\poprawakolokwium\bin\Debug\poprawakolokwium.exe.config
+C:\Users\local\Desktop\136239\poprawakolokwium\obj\Debug\poprawakolokwium.exe
+C:\Users\local\Desktop\136239\poprawakolokwium\obj\Debug\poprawakolokwium.pdb
